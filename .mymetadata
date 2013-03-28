@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="shopping_24(demo3演示版)"
+  id="myeclipse.1348390991037"
+  context-root="/shopping_24"
+  j2ee-spec="5.0"
+  archive="shopping_24(demo3演示版).war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
